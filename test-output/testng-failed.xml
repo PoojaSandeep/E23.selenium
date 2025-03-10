@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testNG.DataProviderPractice">
+      <class name="testNG.AssertionsPractice">
         <methods>
-          <include name="addPhoneTOCart"/>
+          <include name="demoTest"/>
         </methods>
-      </class> <!-- testNG.DataProviderPractice -->
+      </class> <!-- testNG.AssertionsPractice -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
