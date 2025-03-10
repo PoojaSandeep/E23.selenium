@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 public class AssertionsPractice {
 	
 	@Test
-	//Run | Debug
+	//Run | Debug} run
 	public void demoTest()
 	{
 		String a="hello";
