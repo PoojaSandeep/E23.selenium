@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public class ClickAndHoldAction {
 	public static void main(String[] args) throws InterruptedException {
-		//launch browser
+		//launch browsers
 		WebDriver driver=new EdgeDriver();
 		
 		//maximize Window
